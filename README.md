@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>Christopher Fong</h4> here, pleasure to meet you :)
+<h4>Christopher Fong</h4>here, pleasure to meet you :)
 
 <h4>About me</h4>
 I am studying computer science at Simon Fraser University, but in my free time I love to explore various facets of programming that can be used to improve 
