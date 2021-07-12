@@ -2,13 +2,13 @@
 
 My name is Christopher Fong, pleasure to meet you :)
 
-<h3>About me</h3>
+### About me
 I am studying computer science at Simon Fraser University, but in my free time I love to explore various facets of programming that can be used to improve 
 quality of life! 
 
 <p>I believe the possibilities with software development are limitless, so I am dedicating this github to documenting my journey of exploration through these endless avenues</p>
 
-<h3>Where to find me</h3>
+### Where to find me
 I love to meet new people and talk about anything! Connect with me on my socials below! Or shoot me a message at my email ccffoonngg@gmail.com
 
 <a href="https://www.linkedin.com/in/christopher-fong-8a8b38193/">LinkedIn</a>
