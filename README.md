@@ -11,6 +11,7 @@ CS at Simon Fraser University. But besides that, I also love:
 - Gaming 🎮
 - building PCs 💻
 - Playing Guitar 🎸
+... and plenty more that I'm forgetting to put on here 😅
 
 If you match any of those, let's be friends 😄. Also if you don't, let's also be friends 😆
 
