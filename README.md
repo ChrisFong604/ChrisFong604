@@ -3,28 +3,24 @@
 My name is Christopher Fong, pleasure to meet you :)
 
 ### About me
-I am studying computer science at Simon Fraser University, but in my free time I love to explore various facets of programming that can be used to improve 
-quality of life! 
+CS at Simon Fraser University. But besides that, I also love:
+- Basketball 🏀
+- Swimming 🏊
+- Hiking 🥾
+- Snowboarding 🏂
+- Gaming 🎮
+- building PCs 💻
+- Playing Guitar 🎸
 
-<p>I believe the possibilities with software development are limitless, so I am dedicating this github to documenting my journey of exploration through these endless avenues</p>
+If you match any of those, let's be friends 😄. Also if you don't, let's also be friends 😆
+
+### Where this page is headed
+As of now, I am dedicating this github account to document my journey in Software Development. It will shine some light on 
+both the adventures I've been a part of, and also the countless more to come!
 
 ### Where to find me
-I love to meet new people and talk about anything! Connect with me on my socials below! Or shoot me a message at my email ccffoonngg@gmail.com
+I love to meet new people and connect! My socials are linked below
 
-<a href="https://www.linkedin.com/in/christopher-fong-8a8b38193/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/chrisfong604/">LinkedIn</a>
 <a href="https://www.instagram.com/isrly_chris/">Instagram</a>
 
-<!--
-**ChrisFong604/ChrisFong604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
