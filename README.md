@@ -25,4 +25,4 @@ I love to connect with new people! My socials are linked below
 
 ### Some Statistics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFong604)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFong604&hide=html)](https://github.com/anuraghazra/github-readme-stats)
