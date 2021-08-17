@@ -23,3 +23,6 @@ I love to connect with new people! My socials are linked below
 <a href="https://www.linkedin.com/in/chrisfong604/">LinkedIn</a>
 <a href="https://www.instagram.com/isrly_chris/">Instagram</a>
 
+### Some Statistics
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFong604)](https://github.com/anuraghazra/github-readme-stats)
