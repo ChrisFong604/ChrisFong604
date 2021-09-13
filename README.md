@@ -21,8 +21,7 @@ both the adventures I've been a part of, and also the countless more to come!
 I love to connect with new people! My socials are linked below
 
 [LinkedIn](https://www.linkedin.com/in/chrisfong604/)
-<a href="https://www.linkedin.com/in/chrisfong604/">LinkedIn</a>
-<a href="https://www.instagram.com/isrly_chris/">Instagram</a>
+[Instagram](https://www.instagram.com/isrly_chris/)
 
 ### Some Statistics
 
